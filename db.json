@@ -1,58 +1,60 @@
-[
-  {
-    "id": "11cdd633-133a-40a6-b8f0-781266ffb06f",
-    "name": "Noctis Lucis Caelum",
-    "type": "Profesional",
-    "location": "Insomnia",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "f8c0d283-a534-470d-af92-9f8ce69b87c7",
-    "name": "Lunafreya Nox Fleuret",
-    "type": "Profesional",
-    "location": "Tenebrae",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "a9215cc4-7693-41e3-abc6-191381cbfa82",
-    "name": "Noah fon Ronsenburg",
-    "type": "Profesional",
-    "location": "Archadia",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "4a29f59c-0e3b-4835-a40c-88d017f636c2",
-    "name": "Ramza Beoulve",
-    "type": "Profesional",
-    "location": "Egrose",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "2fb76665-ae1b-4364-99ae-0241a7041f31",
-    "name": "Ajora Glabados",
-    "type": "Profesional",
-    "location": "Mullond",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "f2c538c9-38f5-4215-810c-64c2ca38fb4f",
-    "name": "Agrias Oaks",
-    "type": "Profesional",
-    "location": "Orbonne",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "699f3e24-f022-4d81-ace5-dc3d770265f9",
-    "name": "Ffamran mied Bunansa",
-    "type": "Profesional",
-    "location": "Archades",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  },
-  {
-    "id": "1b5536df-634e-4495-aa34-84324dc2a396",
-    "name": "Luso Clemens",
-    "type": "Profesional",
-    "location": "St Ivalice",
-    "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
-  }
-]
+{
+  "users": [
+    {
+      "id": "11cdd633-133a-40a6-b8f0-781266ffb06f",
+      "name": "Noctis Lucis Caelum",
+      "type": "Profesional",
+      "location": "Insomnia",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "f8c0d283-a534-470d-af92-9f8ce69b87c7",
+      "name": "Lunafreya Nox Fleuret",
+      "type": "Profesional",
+      "location": "Tenebrae",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "a9215cc4-7693-41e3-abc6-191381cbfa82",
+      "name": "Noah fon Ronsenburg",
+      "type": "Profesional",
+      "location": "Archadia",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "4a29f59c-0e3b-4835-a40c-88d017f636c2",
+      "name": "Ramza Beoulve",
+      "type": "Profesional",
+      "location": "Egrose",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "2fb76665-ae1b-4364-99ae-0241a7041f31",
+      "name": "Ajora Glabados",
+      "type": "Profesional",
+      "location": "Mullond",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "f2c538c9-38f5-4215-810c-64c2ca38fb4f",
+      "name": "Agrias Oaks",
+      "type": "Profesional",
+      "location": "Orbonne",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "699f3e24-f022-4d81-ace5-dc3d770265f9",
+      "name": "Ffamran mied Bunansa",
+      "type": "Profesional",
+      "location": "Archades",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "1b5536df-634e-4495-aa34-84324dc2a396",
+      "name": "Luso Clemens",
+      "type": "Profesional",
+      "location": "St Ivalice",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    }
+  ]
+}
