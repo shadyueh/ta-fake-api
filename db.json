@@ -3,57 +3,155 @@
     {
       "id": "11cdd633-133a-40a6-b8f0-781266ffb06f",
       "name": "Noctis Lucis Caelum",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Insomnia",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "f8c0d283-a534-470d-af92-9f8ce69b87c7",
       "name": "Lunafreya Nox Fleuret",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Tenebrae",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "a9215cc4-7693-41e3-abc6-191381cbfa82",
       "name": "Noah fon Ronsenburg",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Archadia",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "4a29f59c-0e3b-4835-a40c-88d017f636c2",
       "name": "Ramza Beoulve",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Egrose",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "2fb76665-ae1b-4364-99ae-0241a7041f31",
       "name": "Ajora Glabados",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Mullond",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "f2c538c9-38f5-4215-810c-64c2ca38fb4f",
       "name": "Agrias Oaks",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Orbonne",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "699f3e24-f022-4d81-ace5-dc3d770265f9",
       "name": "Ffamran mied Bunansa",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "Archades",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     },
     {
       "id": "1b5536df-634e-4495-aa34-84324dc2a396",
       "name": "Luso Clemens",
-      "type": "Profesional",
+      "type": "Profissional",
       "location": "St Ivalice",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "7627c46b-5050-4f7a-b548-93fc5d71c274",
+      "name": "Naughty Dog LLC",
+      "type": "Produtora",
+      "location": "Santa Monica",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "0fa9eedf-e03f-4f0e-be01-23d01226dd9d",
+      "name": "THQ Inc",
+      "type": "Produtora",
+      "location": "Agoura Hills",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "e0aa89d6-abcd-417c-82c3-2f0720792f05",
+      "name": "Sony Interactive Entertainment",
+      "type": "Produtora",
+      "location": "San Mateo",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "b782b972-6bab-4a57-a538-81d7d10c1020",
+      "name": "Ready At Down Studios",
+      "type": "Produtora",
+      "location": "Irvine",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "3f5f3b25-fa82-4f6a-8ddf-2a59fcbb9af4",
+      "name": "Tencent Holdings Ltd.",
+      "type": "Produtora",
+      "location": "Shenzhen",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "7e05be26-b102-4d4f-af86-d73dd90420af",
+      "name": "NetEase",
+      "type": "Produtora",
+      "location": "Hangzhou",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "dfad8b61-26aa-4857-a829-2f50d0380c50",
+      "name": "Arc System Works",
+      "type": "Produtora",
+      "location": "Yokohama",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "8ddaf204-19fc-4bcb-b691-7549b8a20719",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "31579972-efcf-4863-9a5e-58b41f28a406",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "8e12a5f9-0870-48a0-981c-e9dc85dddf36",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "d057e76b-611f-4214-81a1-085edca49a18",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "a7f45d68-3157-4d52-a25b-3cbadf654ccb",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "8cec2e0c-488c-484a-972d-700c56cc4cb8",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
+      "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
+    },
+    {
+      "id": "9d4bdf0e-47d9-4102-9fef-96fee98acd4e",
+      "name": "Alejandro Pablo Trancoso",
+      "type": "Profissional",
+      "location": "La Plata",
       "avatar_url": "https://cdn.onlinewebfonts.com/svg/img_357118.png"
     }
   ]
